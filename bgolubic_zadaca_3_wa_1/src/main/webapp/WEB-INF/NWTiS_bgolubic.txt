@@ -1,0 +1,10 @@
+#NWTiS bgolubic 2023.
+#Thu Mar 23 14:51:16 CET 2023
+aerodromi.sakupljanje=LDZA LOWW EDDF EDDM
+ciklus.trajanje=300
+preuzimanje.od=01.01.2023
+preuzimanje.do=01.05.2023
+OpenSkyNetwork.korisnik=
+OpenSkyNetwork.lozinka=
+OpenWeatherMap.apikey=
+LocationIQ.apikey=
